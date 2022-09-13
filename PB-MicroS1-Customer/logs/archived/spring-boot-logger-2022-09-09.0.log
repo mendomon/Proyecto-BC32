@@ -1,0 +1,30 @@
+2022-09-09 15:00:13,972 INFO org.springframework.boot.StartupInfoLogger [main] Starting DiscoveryServerApplication using Java 11.0.16.1 on LAPTOP-0OT9E2ET with PID 11696 (C:\DEV\JAVA\BC32\ProyBanca\PB-discovery-server\target\classes started by mendo in C:\DEV\JAVA\BC32\ProyBanca\PB-MicroS1-Customer)
+2022-09-09 15:00:13,975 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-09-09 15:00:13,976 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-09-09 15:03:28,242 INFO org.springframework.boot.StartupInfoLogger [main] Starting DiscoveryServerApplication using Java 11.0.16.1 on LAPTOP-0OT9E2ET with PID 15152 (C:\DEV\JAVA\BC32\ProyBanca\PB-discovery-server\target\classes started by mendo in C:\DEV\JAVA\BC32\ProyBanca\PB-MicroS1-Customer)
+2022-09-09 15:03:28,246 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-09-09 15:03:28,247 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-09-09 15:03:33,393 INFO org.springframework.boot.StartupInfoLogger [main] Started DiscoveryServerApplication in 5.956 seconds (JVM running for 6.497)
+2022-09-09 15:04:07,994 INFO org.springframework.boot.StartupInfoLogger [main] Starting DiscoveryServerApplication using Java 11.0.16.1 on LAPTOP-0OT9E2ET with PID 18920 (C:\DEV\JAVA\BC32\ProyBanca\PB-discovery-server\target\classes started by mendo in C:\DEV\JAVA\BC32\ProyBanca\PB-MicroS1-Customer)
+2022-09-09 15:04:07,998 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-09-09 15:04:07,998 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-09-09 15:04:12,763 INFO org.springframework.boot.StartupInfoLogger [main] Started DiscoveryServerApplication in 5.619 seconds (JVM running for 6.441)
+2022-09-09 15:04:37,025 INFO org.springframework.boot.StartupInfoLogger [main] Starting DiscoveryServerApplication using Java 11.0.16.1 on LAPTOP-0OT9E2ET with PID 43420 (C:\DEV\JAVA\BC32\ProyBanca\PB-discovery-server\target\classes started by mendo in C:\DEV\JAVA\BC32\ProyBanca\PB-MicroS1-Customer)
+2022-09-09 15:04:37,028 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-09-09 15:04:37,029 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-09-09 15:04:41,659 INFO org.springframework.boot.StartupInfoLogger [main] Started DiscoveryServerApplication in 5.408 seconds (JVM running for 5.916)
+2022-09-09 15:12:20,620 INFO org.springframework.boot.StartupInfoLogger [main] Starting DiscoveryServerApplication using Java 11.0.16.1 on LAPTOP-0OT9E2ET with PID 37024 (C:\DEV\JAVA\BC32\ProyBanca\PB-discovery-server\target\classes started by mendo in C:\DEV\JAVA\BC32\ProyBanca\PB-MicroS1-Customer)
+2022-09-09 15:12:20,623 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-09-09 15:12:20,623 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-09-09 15:12:24,928 INFO org.springframework.boot.StartupInfoLogger [main] Started DiscoveryServerApplication in 5.065 seconds (JVM running for 5.567)
+2022-09-09 15:12:47,089 INFO org.springframework.boot.StartupInfoLogger [main] Starting CustomerMain using Java 11.0.16.1 on LAPTOP-0OT9E2ET with PID 26132 (C:\DEV\JAVA\BC32\ProyBanca\PB-MicroS1-Customer\target\classes started by mendo in C:\DEV\JAVA\BC32\ProyBanca\PB-MicroS1-Customer)
+2022-09-09 15:12:47,091 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-09-09 15:12:47,092 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-09-09 15:14:59,178 INFO org.springframework.boot.StartupInfoLogger [main] Starting CustomerMain using Java 11.0.16.1 on LAPTOP-0OT9E2ET with PID 22832 (C:\DEV\JAVA\BC32\ProyBanca\PB-MicroS1-Customer\target\classes started by mendo in C:\DEV\JAVA\BC32\ProyBanca\PB-MicroS1-Customer)
+2022-09-09 15:14:59,180 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-09-09 15:14:59,181 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-09-09 15:15:02,987 INFO org.springframework.boot.StartupInfoLogger [main] Started CustomerMain in 4.55 seconds (JVM running for 5.105)
+2022-09-09 15:26:30,896 INFO org.springframework.boot.StartupInfoLogger [main] Starting CustomerMain using Java 11.0.16.1 on LAPTOP-0OT9E2ET with PID 12052 (C:\DEV\JAVA\BC32\ProyBanca\PB-MicroS1-Customer\target\classes started by mendo in C:\DEV\JAVA\BC32\ProyBanca\PB-MicroS1-Customer)
+2022-09-09 15:26:30,897 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-09-09 15:26:30,898 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-09-09 15:26:34,768 INFO org.springframework.boot.StartupInfoLogger [main] Started CustomerMain in 4.58 seconds (JVM running for 5.093)

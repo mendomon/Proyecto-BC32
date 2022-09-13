@@ -1,0 +1,22 @@
+2022-09-09 14:09:32,206 INFO org.springframework.boot.StartupInfoLogger [main] Starting DiscoveryServerApplication using Java 11.0.16.1 on LAPTOP-0OT9E2ET with PID 43892 (C:\DEV\JAVA\BC32\ProyBanca\PB-discovery-server\target\classes started by mendo in C:\DEV\JAVA\BC32\ProyBanca\PB-discovery-server)
+2022-09-09 14:09:32,207 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-09-09 14:09:32,208 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-09-09 14:13:21,022 INFO org.springframework.boot.StartupInfoLogger [main] Starting DiscoveryServerApplication using Java 11.0.16.1 on LAPTOP-0OT9E2ET with PID 14808 (C:\DEV\JAVA\BC32\ProyBanca\PB-discovery-server\target\classes started by mendo in C:\DEV\JAVA\BC32\ProyBanca\PB-discovery-server)
+2022-09-09 14:13:21,024 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-09-09 14:13:21,026 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-09-09 14:21:42,022 INFO org.springframework.boot.StartupInfoLogger [main] Starting DiscoveryServerApplication using Java 11.0.16.1 on LAPTOP-0OT9E2ET with PID 14484 (C:\DEV\JAVA\BC32\ProyBanca\PB-discovery-server\target\classes started by mendo in C:\DEV\JAVA\BC32\ProyBanca\PB-discovery-server)
+2022-09-09 14:21:42,026 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-09-09 14:21:42,026 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-09-09 14:29:35,590 INFO org.springframework.boot.StartupInfoLogger [main] Starting DiscoveryServerApplication using Java 11.0.16.1 on LAPTOP-0OT9E2ET with PID 23404 (C:\DEV\JAVA\BC32\ProyBanca\PB-discovery-server\target\classes started by mendo in C:\DEV\JAVA\BC32\ProyBanca\PB-discovery-server)
+2022-09-09 14:29:35,593 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-09-09 14:29:35,594 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-09-09 14:35:47,565 INFO org.springframework.boot.StartupInfoLogger [main] Starting DiscoveryServerApplication using Java 11.0.16.1 on LAPTOP-0OT9E2ET with PID 32776 (C:\DEV\JAVA\BC32\ProyBanca\PB-discovery-server\target\classes started by mendo in C:\DEV\JAVA\BC32\ProyBanca\PB-discovery-server)
+2022-09-09 14:35:47,568 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-09-09 14:35:47,569 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-09-09 14:38:25,364 INFO org.springframework.boot.StartupInfoLogger [main] Starting DiscoveryServerApplication using Java 11.0.16.1 on LAPTOP-0OT9E2ET with PID 43640 (C:\DEV\JAVA\BC32\ProyBanca\PB-discovery-server\target\classes started by mendo in C:\DEV\JAVA\BC32\ProyBanca\PB-discovery-server)
+2022-09-09 14:38:25,367 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-09-09 14:38:25,367 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-09-09 14:41:16,180 INFO org.springframework.boot.StartupInfoLogger [main] Starting DiscoveryServerApplication using Java 11.0.16.1 on LAPTOP-0OT9E2ET with PID 33688 (C:\DEV\JAVA\BC32\ProyBanca\PB-discovery-server\target\classes started by mendo in C:\DEV\JAVA\BC32\ProyBanca\PB-discovery-server)
+2022-09-09 14:41:16,184 DEBUG org.springframework.boot.StartupInfoLogger [main] Running with Spring Boot v2.7.3, Spring v5.3.22
+2022-09-09 14:41:16,185 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-09-09 14:41:21,331 INFO org.springframework.boot.StartupInfoLogger [main] Started DiscoveryServerApplication in 6.066 seconds (JVM running for 6.623)

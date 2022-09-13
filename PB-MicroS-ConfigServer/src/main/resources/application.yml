@@ -1,0 +1,26 @@
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:9090/eureka/
+
+server:
+  port: 8888
+
+spring:
+  application:
+    name: app-config-server
+  cloud:
+    config:
+      server:
+        git:
+          #ignoreLocalSshSettings: true
+          uri: https://github.com/mendomon/PB-MicroS-ConfigServer.git
+          #uri: C:\Users\mendo\Documents\GitHub\PB-MicroS-ConfigServer
+          #searchPaths: config-data
+          #skipSslValidation: true
+          #username: mendomon
+          #password: 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
+  security:
+    user:
+      name: admin
+      password: 123456

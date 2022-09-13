@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="PB-MicroS6-YankiUser" />
+        <module name="PB-MicroS-ConfigServer" />
+        <module name="PB-MicroS2-Account" />
+        <module name="PB-MicroS5-Card" />
+        <module name="PB-MicroS1-Customer" />
+        <module name="PB-MicroS-APIGateway" />
+        <module name="PB-MicroS3-Credit" />
+        <module name="PB-MicroS-DiscoveryServer" />
+        <module name="PB-MicroS4-Movement" />
+        <module name="PB-MicroS7-BootCoinUser" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

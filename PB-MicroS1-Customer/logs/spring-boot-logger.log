@@ -1,0 +1,63 @@
+2022-09-13 15:20:27,648 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-09-13 15:20:31,407 INFO org.springframework.boot.StartupInfoLogger [main] Started DiscoveryServerApplication in 5.87 seconds (JVM running for 6.32)
+2022-09-13 15:30:07,747 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-09-13 15:30:11,203 INFO org.springframework.boot.StartupInfoLogger [main] Started AccountMain in 7.426 seconds (JVM running for 7.923)
+2022-09-13 15:45:09,055 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-09-13 15:45:12,693 INFO org.springframework.boot.StartupInfoLogger [main] Started CardMain in 6.307 seconds (JVM running for 6.897)
+2022-09-13 15:47:04,767 DEBUG pe.com.BC32.app.account.controller.AccountController [reactor-http-nio-2] Entering getAll accounts pe.com.BC32.app.account.controller.AccountController
+2022-09-13 15:47:04,770 DEBUG pe.com.BC32.app.account.controller.AccountController [reactor-http-nio-2] strFromConfigServer value cadena1
+2022-09-13 16:44:27,856 DEBUG pe.com.BC32.app.account.controller.AccountController [reactor-http-nio-2] Entering getAll accounts pe.com.BC32.app.account.controller.AccountController
+2022-09-13 16:44:27,863 DEBUG pe.com.BC32.app.account.controller.AccountController [reactor-http-nio-2] strFromConfigServer value cadena1
+2022-09-13 16:45:30,676 DEBUG pe.com.BC32.app.account.controller.AccountController [reactor-http-nio-2] Entering getAll accounts pe.com.BC32.app.account.controller.AccountController
+2022-09-13 16:45:30,677 DEBUG pe.com.BC32.app.account.controller.AccountController [reactor-http-nio-2] strFromConfigServer value cadena1
+2022-09-13 16:48:17,244 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-09-13 16:48:22,355 INFO org.springframework.boot.StartupInfoLogger [main] Started CustomerMain in 7.326 seconds (JVM running for 7.819)
+2022-09-13 16:50:17,273 DEBUG pe.com.BC32.app.account.controller.AccountController [reactor-http-nio-2] Entering getAll accounts pe.com.BC32.app.account.controller.AccountController
+2022-09-13 16:50:17,274 DEBUG pe.com.BC32.app.account.controller.AccountController [reactor-http-nio-2] strFromConfigServer value cadena1
+2022-09-13 16:51:50,524 DEBUG pe.com.BC32.app.account.controller.AccountController [reactor-http-nio-2] Entering getAll accounts pe.com.BC32.app.account.controller.AccountController
+2022-09-13 16:51:50,524 DEBUG pe.com.BC32.app.account.controller.AccountController [reactor-http-nio-2] strFromConfigServer value cadena1
+2022-09-13 16:52:10,467 DEBUG pe.com.BC32.app.account.controller.AccountController [reactor-http-nio-2] Entering get account pe.com.BC32.app.account.controller.AccountController
+2022-09-13 16:53:18,742 DEBUG pe.com.BC32.app.account.controller.AccountController [reactor-http-nio-2] Entering getAll accounts pe.com.BC32.app.account.controller.AccountController
+2022-09-13 16:53:18,742 DEBUG pe.com.BC32.app.account.controller.AccountController [reactor-http-nio-2] strFromConfigServer value cadena1
+2022-09-13 16:53:34,259 DEBUG pe.com.BC32.app.account.controller.AccountController [reactor-http-nio-2] Entering add account pe.com.BC32.app.account.controller.AccountController
+2022-09-13 16:53:34,260 DEBUG pe.com.BC32.app.account.service.implement.AccountServiceImpl [reactor-http-nio-2] Entering save pe.com.BC32.app.account.service.implement.AccountServiceImpl
+2022-09-13 16:53:38,582 DEBUG pe.com.BC32.app.account.controller.AccountController [reactor-http-nio-2] Entering getAll accounts pe.com.BC32.app.account.controller.AccountController
+2022-09-13 16:53:38,583 DEBUG pe.com.BC32.app.account.controller.AccountController [reactor-http-nio-2] strFromConfigServer value cadena1
+2022-09-13 16:54:31,935 DEBUG pe.com.BC32.app.account.controller.AccountController [reactor-http-nio-2] Entering get account pe.com.BC32.app.account.controller.AccountController
+2022-09-13 16:54:33,324 DEBUG pe.com.BC32.app.account.controller.AccountController [reactor-http-nio-2] Entering get account pe.com.BC32.app.account.controller.AccountController
+2022-09-13 16:54:34,210 DEBUG pe.com.BC32.app.account.controller.AccountController [reactor-http-nio-2] Entering get account pe.com.BC32.app.account.controller.AccountController
+2022-09-13 16:55:20,047 DEBUG pe.com.BC32.app.account.controller.AccountController [reactor-http-nio-2] Entering update account pe.com.BC32.app.account.controller.AccountController
+2022-09-13 16:55:20,048 DEBUG pe.com.BC32.app.account.service.implement.AccountServiceImpl [reactor-http-nio-2] Entering update pe.com.BC32.app.account.service.implement.AccountServiceImpl
+2022-09-13 16:57:07,721 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-09-13 16:57:10,922 INFO org.springframework.boot.StartupInfoLogger [main] Started CreditMain in 5.334 seconds (JVM running for 5.897)
+2022-09-13 16:58:06,309 DEBUG pe.com.BC32.app.credit.controller.CreditController [reactor-http-nio-2] Entering getAll accounts pe.com.BC32.app.credit.controller.CreditController
+2022-09-13 16:58:28,233 DEBUG pe.com.BC32.app.credit.controller.CreditController [reactor-http-nio-2] Entering get account pe.com.BC32.app.credit.controller.CreditController
+2022-09-13 16:58:47,749 DEBUG pe.com.BC32.app.credit.controller.CreditController [reactor-http-nio-2] Entering add account pe.com.BC32.app.credit.controller.CreditController
+2022-09-13 16:58:47,750 DEBUG pe.com.BC32.app.credit.service.implement.CreditServiceImpl [reactor-http-nio-2] Entering save pe.com.BC32.app.credit.service.implement.CreditServiceImpl
+2022-09-13 16:59:24,886 DEBUG pe.com.BC32.app.credit.controller.CreditController [reactor-http-nio-2] Entering update account pe.com.BC32.app.credit.controller.CreditController
+2022-09-13 16:59:24,887 DEBUG pe.com.BC32.app.credit.service.implement.CreditServiceImpl [reactor-http-nio-2] Entering update pe.com.BC32.app.credit.service.implement.CreditServiceImpl
+2022-09-13 17:01:00,905 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-09-13 17:01:04,572 INFO org.springframework.boot.StartupInfoLogger [main] Started MovementMain in 5.794 seconds (JVM running for 6.236)
+2022-09-13 17:04:54,141 DEBUG pe.com.BC32.app.customer.controller.CustomerController [reactor-http-nio-5] Entering getall customers pe.com.BC32.app.customer.controller.CustomerController
+2022-09-13 17:04:54,150 DEBUG pe.com.BC32.app.customer.controller.CustomerController [reactor-http-nio-5] strFromConfigServer value cadena1
+2022-09-13 17:06:26,610 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-09-13 17:06:31,186 INFO org.springframework.boot.StartupInfoLogger [main] Started CustomerMain in 6.751 seconds (JVM running for 7.275)
+2022-09-13 17:06:53,875 DEBUG pe.com.BC32.app.customer.controller.CustomerController [reactor-http-nio-3] Entering getall customers pe.com.BC32.app.customer.controller.CustomerController
+2022-09-13 17:06:53,876 DEBUG pe.com.BC32.app.customer.controller.CustomerController [reactor-http-nio-3] strFromConfigServer value cadena1
+2022-09-13 17:08:01,919 DEBUG pe.com.BC32.app.customer.controller.CustomerController [reactor-http-nio-3] Entering getall customers pe.com.BC32.app.customer.controller.CustomerController
+2022-09-13 17:08:01,919 DEBUG pe.com.BC32.app.customer.controller.CustomerController [reactor-http-nio-3] strFromConfigServer value cadena1
+2022-09-13 17:08:18,724 DEBUG pe.com.BC32.app.customer.controller.CustomerController [reactor-http-nio-3] Entering get customer pe.com.BC32.app.customer.controller.CustomerController
+2022-09-13 17:09:04,089 DEBUG pe.com.BC32.app.customer.controller.CustomerController [reactor-http-nio-3] Entering add customer pe.com.BC32.app.customer.controller.CustomerController
+2022-09-13 17:09:50,591 DEBUG pe.com.BC32.app.customer.controller.CustomerController [reactor-http-nio-3] Entering update customer pe.com.BC32.app.customer.controller.CustomerController
+2022-09-13 17:10:06,175 DEBUG pe.com.BC32.app.customer.controller.CustomerController [reactor-http-nio-3] Entering add customer pe.com.BC32.app.customer.controller.CustomerController
+2022-09-13 17:10:16,772 DEBUG pe.com.BC32.app.customer.controller.CustomerController [reactor-http-nio-3] Entering delete customer pe.com.BC32.app.customer.controller.CustomerController
+2022-09-13 17:10:20,614 DEBUG pe.com.BC32.app.customer.controller.CustomerController [reactor-http-nio-3] Entering getall customers pe.com.BC32.app.customer.controller.CustomerController
+2022-09-13 17:10:20,614 DEBUG pe.com.BC32.app.customer.controller.CustomerController [reactor-http-nio-3] strFromConfigServer value cadena1
+2022-09-13 17:12:12,245 DEBUG pe.com.BC32.app.customer.controller.CustomerController [reactor-http-nio-3] Entering getByDocumentNumber customer pe.com.BC32.app.customer.controller.CustomerController
+2022-09-13 17:12:28,256 DEBUG pe.com.BC32.app.customer.controller.CustomerController [reactor-http-nio-3] Entering getByDocumentNumber customer pe.com.BC32.app.customer.controller.CustomerController
+2022-09-13 17:13:25,137 DEBUG pe.com.BC32.app.customer.controller.CustomerController [reactor-http-nio-3] Entering getByDocumentNumberDocumentType customer pe.com.BC32.app.customer.controller.CustomerController
+2022-09-13 17:13:29,567 DEBUG pe.com.BC32.app.customer.controller.CustomerController [reactor-http-nio-3] Entering getByDocumentNumberDocumentType customer pe.com.BC32.app.customer.controller.CustomerController
+2022-09-13 17:26:05,858 DEBUG pe.com.BC32.app.account.controller.AccountController [reactor-http-nio-2] Entering getAll accounts pe.com.BC32.app.account.controller.AccountController
+2022-09-13 17:26:05,870 DEBUG pe.com.BC32.app.account.controller.AccountController [reactor-http-nio-2] strFromConfigServer value cadena1
+2022-09-13 17:30:13,369 DEBUG pe.com.BC32.app.credit.controller.CreditController [reactor-http-nio-2] Entering getAll accounts pe.com.BC32.app.credit.controller.CreditController
+2022-09-13 17:34:01,452 DEBUG pe.com.BC32.app.card.CardController [reactor-http-nio-3] Entering getAll cards pe.com.BC32.app.card.CardController

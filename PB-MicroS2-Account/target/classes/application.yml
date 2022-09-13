@@ -1,0 +1,25 @@
+#eureka:
+#  client:
+#    service-url:
+#      defaultZone: http://localhost:9090/eureka/
+
+#server:
+#  port: 9092
+
+#spring:
+#  application:
+#    name: app-account-service
+#  cloud:
+#    config:
+#      uri: http://localhost:8888
+#      username: admin
+#      password: 123456
+#  data:
+#    mongodb:
+#      database: dbTest
+#      host: localhost
+#      port: 27017
+
+#properties creadas
+#prueba:
+#  string: cadena1
