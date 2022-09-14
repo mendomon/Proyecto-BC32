@@ -1,7 +1,20 @@
 package pe.com.BC32.app.yankiuser;
 
+import lombok.extern.slf4j.Slf4j;
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
+
+@Slf4j
+@EnableEurekaClient
+@SpringBootApplication
 public class YankiUserMain {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        log.debug("Application Start - DEBUG");
+        log.error("Application Start - ERROR");
+        log.info("Application Start - INFO");
+        log.trace("Application Start - TRACE");
+        log.warn("Application Start - WARN");
+        SpringApplication.run(YankiUserMain.class, args);
     }
 }

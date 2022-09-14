@@ -60,4 +60,93 @@
 2022-09-13 17:26:05,858 DEBUG pe.com.BC32.app.account.controller.AccountController [reactor-http-nio-2] Entering getAll accounts pe.com.BC32.app.account.controller.AccountController
 2022-09-13 17:26:05,870 DEBUG pe.com.BC32.app.account.controller.AccountController [reactor-http-nio-2] strFromConfigServer value cadena1
 2022-09-13 17:30:13,369 DEBUG pe.com.BC32.app.credit.controller.CreditController [reactor-http-nio-2] Entering getAll accounts pe.com.BC32.app.credit.controller.CreditController
-2022-09-13 17:34:01,452 DEBUG pe.com.BC32.app.card.CardController [reactor-http-nio-3] Entering getAll cards pe.com.BC32.app.card.CardController
+2022-09-13 17:34:01,452 DEBUG pe.com.BC32.app.card.controller.CardController [reactor-http-nio-3] Entering getAll cards pe.com.BC32.app.card.controller.CardController
+2022-09-13 18:55:07,922 DEBUG pe.com.BC32.app.card.controller.CardController [reactor-http-nio-3] Entering getAll cards pe.com.BC32.app.card.controller.CardController
+2022-09-13 18:55:37,158 DEBUG pe.com.BC32.app.card.controller.CardController [reactor-http-nio-3] Entering getAll cards pe.com.BC32.app.card.controller.CardController
+2022-09-13 19:09:28,532 DEBUG pe.com.BC32.app.card.controller.CardController [reactor-http-nio-3] Entering getAll cards pe.com.BC32.app.card.controller.CardController
+2022-09-13 20:05:28,694 DEBUG pe.com.BC32.app.credit.controller.CreditController [reactor-http-nio-2] Entering getAll accounts pe.com.BC32.app.credit.controller.CreditController
+2022-09-13 20:11:55,844 DEBUG pe.com.BC32.app.credit.controller.CreditController [reactor-http-nio-2] Entering get account pe.com.BC32.app.credit.controller.CreditController
+2022-09-13 21:28:17,029 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-09-13 21:28:20,746 INFO org.springframework.boot.StartupInfoLogger [main] Started ParameterMain in 6.528 seconds (JVM running for 7.148)
+2022-09-13 21:30:00,739 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-09-13 21:37:04,342 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-09-13 21:37:08,200 INFO org.springframework.boot.StartupInfoLogger [main] Started DiscoveryServerApplication in 6.41 seconds (JVM running for 7.269)
+2022-09-13 21:39:57,570 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-09-13 21:40:01,539 INFO org.springframework.boot.StartupInfoLogger [main] Started DiscoveryServerApplication in 6.194 seconds (JVM running for 6.656)
+2022-09-13 21:45:24,337 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-09-13 21:45:28,444 INFO org.springframework.boot.StartupInfoLogger [main] Started DiscoveryServerApplication in 8.134 seconds (JVM running for 8.613)
+2022-09-13 21:49:54,005 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-09-13 21:49:57,636 INFO org.springframework.boot.StartupInfoLogger [main] Started ParameterMain in 5.78 seconds (JVM running for 6.283)
+2022-09-13 21:50:26,491 DEBUG pe.com.BC32.app.parameter.controller.ParameterController [reactor-http-nio-3] Entering getall parameters pe.com.BC32.app.parameter.controller.ParameterController
+2022-09-13 21:57:25,214 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-09-13 21:57:28,517 INFO org.springframework.boot.StartupInfoLogger [main] Started ParameterMain in 5.325 seconds (JVM running for 5.754)
+2022-09-13 21:58:11,941 DEBUG pe.com.BC32.app.parameter.controller.ParameterController [reactor-http-nio-3] Entering getall parameters pe.com.BC32.app.parameter.controller.ParameterController
+2022-09-13 21:58:59,007 DEBUG pe.com.BC32.app.parameter.controller.ParameterController [reactor-http-nio-4] Entering getall parameters pe.com.BC32.app.parameter.controller.ParameterController
+2022-09-13 21:59:22,995 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-09-13 21:59:26,200 INFO org.springframework.boot.StartupInfoLogger [main] Started CardMain in 5.22 seconds (JVM running for 5.632)
+2022-09-13 21:59:49,140 DEBUG pe.com.BC32.app.parameter.controller.ParameterController [reactor-http-nio-4] Entering getall parameters pe.com.BC32.app.parameter.controller.ParameterController
+2022-09-13 22:00:23,239 DEBUG pe.com.BC32.app.parameter.controller.ParameterController [reactor-http-nio-4] Entering get parameter pe.com.BC32.app.parameter.controller.ParameterController
+2022-09-13 22:01:29,825 DEBUG pe.com.BC32.app.parameter.controller.ParameterController [reactor-http-nio-4] Entering add parameter pe.com.BC32.app.parameter.controller.ParameterController
+2022-09-13 22:02:20,893 DEBUG pe.com.BC32.app.parameter.controller.ParameterController [reactor-http-nio-4] Entering update parameter pe.com.BC32.app.parameter.controller.ParameterController
+2022-09-13 22:02:24,766 DEBUG pe.com.BC32.app.parameter.controller.ParameterController [reactor-http-nio-4] Entering getall parameters pe.com.BC32.app.parameter.controller.ParameterController
+2022-09-13 22:02:41,936 DEBUG pe.com.BC32.app.parameter.controller.ParameterController [reactor-http-nio-4] Entering update parameter pe.com.BC32.app.parameter.controller.ParameterController
+2022-09-13 22:02:49,296 DEBUG pe.com.BC32.app.parameter.controller.ParameterController [reactor-http-nio-4] Entering add parameter pe.com.BC32.app.parameter.controller.ParameterController
+2022-09-13 22:03:07,053 DEBUG pe.com.BC32.app.parameter.controller.ParameterController [reactor-http-nio-4] Entering getall parameters pe.com.BC32.app.parameter.controller.ParameterController
+2022-09-13 22:03:22,722 DEBUG pe.com.BC32.app.parameter.controller.ParameterController [reactor-http-nio-4] Entering delete parameter pe.com.BC32.app.parameter.controller.ParameterController
+2022-09-13 22:03:27,298 DEBUG pe.com.BC32.app.parameter.controller.ParameterController [reactor-http-nio-4] Entering getall parameters pe.com.BC32.app.parameter.controller.ParameterController
+2022-09-13 22:03:48,313 DEBUG pe.com.BC32.app.parameter.controller.ParameterController [reactor-http-nio-3] Entering getall parameters pe.com.BC32.app.parameter.controller.ParameterController
+2022-09-13 22:04:02,105 DEBUG pe.com.BC32.app.card.controller.CardController [reactor-http-nio-3] Entering getAll cards pe.com.BC32.app.card.controller.CardController
+2022-09-13 22:04:09,184 DEBUG pe.com.BC32.app.card.controller.CardController [reactor-http-nio-4] Entering getAll cards pe.com.BC32.app.card.controller.CardController
+2022-09-13 22:05:57,539 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-09-13 22:06:00,836 INFO org.springframework.boot.StartupInfoLogger [main] Started ParameterMain in 5.299 seconds (JVM running for 5.731)
+2022-09-13 22:06:53,750 DEBUG pe.com.BC32.app.parameter.controller.ParameterController [reactor-http-nio-2] Entering getall parameters pe.com.BC32.app.parameter.controller.ParameterController
+2022-09-13 22:07:25,264 DEBUG pe.com.BC32.app.parameter.controller.ParameterController [reactor-http-nio-2] Entering getByParamNumber parameter pe.com.BC32.app.parameter.controller.ParameterController
+2022-09-13 22:08:46,582 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-09-13 22:08:49,710 INFO org.springframework.boot.StartupInfoLogger [main] Started ParameterMain in 5.113 seconds (JVM running for 5.523)
+2022-09-13 22:08:55,023 DEBUG pe.com.BC32.app.parameter.controller.ParameterController [reactor-http-nio-2] Entering getByParamNumber parameter pe.com.BC32.app.parameter.controller.ParameterController
+2022-09-13 22:10:35,598 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-09-13 22:10:40,070 INFO org.springframework.boot.StartupInfoLogger [main] Started CustomerMain in 6.496 seconds (JVM running for 6.94)
+2022-09-13 22:17:11,462 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-09-13 22:17:14,778 INFO org.springframework.boot.StartupInfoLogger [main] Started AccountMain in 5.389 seconds (JVM running for 5.832)
+2022-09-13 22:17:50,222 DEBUG pe.com.BC32.app.account.controller.AccountController [reactor-http-nio-2] Entering getAll accounts pe.com.BC32.app.account.controller.AccountController
+2022-09-13 22:17:50,223 DEBUG pe.com.BC32.app.account.controller.AccountController [reactor-http-nio-2] strFromConfigServer value cadena1
+2022-09-13 22:19:57,581 DEBUG pe.com.BC32.app.card.controller.CardController [reactor-http-nio-4] Entering getAll cards pe.com.BC32.app.card.controller.CardController
+2022-09-13 22:20:22,070 DEBUG pe.com.BC32.app.card.controller.CardController [reactor-http-nio-4] Entering get cards pe.com.BC32.app.card.controller.CardController
+2022-09-13 22:21:08,450 DEBUG pe.com.BC32.app.card.controller.CardController [reactor-http-nio-4] Entering add cards pe.com.BC32.app.card.controller.CardController
+2022-09-13 22:21:08,451 DEBUG pe.com.BC32.app.card.service.implement.CardServiceImpl [reactor-http-nio-4] Entering save pe.com.BC32.app.card.service.implement.CardServiceImpl
+2022-09-13 22:23:06,085 DEBUG pe.com.BC32.app.card.controller.CardController [reactor-http-nio-4] Entering update cards pe.com.BC32.app.card.controller.CardController
+2022-09-13 22:23:06,085 DEBUG pe.com.BC32.app.card.service.implement.CardServiceImpl [reactor-http-nio-4] Entering update pe.com.BC32.app.card.service.implement.CardServiceImpl
+2022-09-13 22:23:10,011 DEBUG pe.com.BC32.app.card.controller.CardController [reactor-http-nio-4] Entering getAll cards pe.com.BC32.app.card.controller.CardController
+2022-09-13 22:23:21,088 DEBUG pe.com.BC32.app.card.controller.CardController [reactor-http-nio-4] Entering add cards pe.com.BC32.app.card.controller.CardController
+2022-09-13 22:23:21,089 DEBUG pe.com.BC32.app.card.service.implement.CardServiceImpl [reactor-http-nio-4] Entering save pe.com.BC32.app.card.service.implement.CardServiceImpl
+2022-09-13 22:23:35,189 DEBUG pe.com.BC32.app.card.controller.CardController [reactor-http-nio-4] Entering getAll cards pe.com.BC32.app.card.controller.CardController
+2022-09-13 22:23:47,910 DEBUG pe.com.BC32.app.card.controller.CardController [reactor-http-nio-4] Entering delete cards pe.com.BC32.app.card.controller.CardController
+2022-09-13 22:23:50,809 DEBUG pe.com.BC32.app.card.controller.CardController [reactor-http-nio-4] Entering getAll cards pe.com.BC32.app.card.controller.CardController
+2022-09-13 23:17:53,081 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-09-13 23:17:57,580 INFO org.springframework.boot.StartupInfoLogger [main] Started YankiUserMain in 6.88 seconds (JVM running for 7.599)
+2022-09-13 23:22:29,285 DEBUG pe.com.BC32.app.yankiuser.controller.YankiUserController [reactor-http-nio-2] Entering getall yankiusers pe.com.BC32.app.yankiuser.controller.YankiUserController
+2022-09-13 23:23:47,318 DEBUG pe.com.BC32.app.yankiuser.controller.YankiUserController [reactor-http-nio-2] Entering get yankiuser pe.com.BC32.app.yankiuser.controller.YankiUserController
+2022-09-13 23:50:58,946 DEBUG pe.com.BC32.app.yankiuser.controller.YankiUserController [reactor-http-nio-2] Entering add yankiuser pe.com.BC32.app.yankiuser.controller.YankiUserController
+2022-09-13 23:50:58,947 DEBUG pe.com.BC32.app.yankiuser.service.implement.YankiUserServiceImpl [reactor-http-nio-2] Entering save pe.com.BC32.app.yankiuser.service.implement.YankiUserServiceImpl
+2022-09-13 23:51:02,916 DEBUG pe.com.BC32.app.yankiuser.controller.YankiUserController [reactor-http-nio-2] Entering get yankiuser pe.com.BC32.app.yankiuser.controller.YankiUserController
+2022-09-13 23:51:06,399 DEBUG pe.com.BC32.app.yankiuser.controller.YankiUserController [reactor-http-nio-2] Entering getall yankiusers pe.com.BC32.app.yankiuser.controller.YankiUserController
+2022-09-13 23:52:02,531 DEBUG pe.com.BC32.app.yankiuser.controller.YankiUserController [reactor-http-nio-2] Entering update yankiuser pe.com.BC32.app.yankiuser.controller.YankiUserController
+2022-09-13 23:52:02,531 DEBUG pe.com.BC32.app.yankiuser.service.implement.YankiUserServiceImpl [reactor-http-nio-2] Entering update pe.com.BC32.app.yankiuser.service.implement.YankiUserServiceImpl
+2022-09-13 23:52:19,854 DEBUG pe.com.BC32.app.yankiuser.controller.YankiUserController [reactor-http-nio-2] Entering add yankiuser pe.com.BC32.app.yankiuser.controller.YankiUserController
+2022-09-13 23:52:19,855 DEBUG pe.com.BC32.app.yankiuser.service.implement.YankiUserServiceImpl [reactor-http-nio-2] Entering save pe.com.BC32.app.yankiuser.service.implement.YankiUserServiceImpl
+2022-09-13 23:52:41,419 DEBUG pe.com.BC32.app.yankiuser.controller.YankiUserController [reactor-http-nio-2] Entering getall yankiusers pe.com.BC32.app.yankiuser.controller.YankiUserController
+2022-09-13 23:52:48,231 DEBUG pe.com.BC32.app.yankiuser.controller.YankiUserController [reactor-http-nio-2] Entering delete yankiuser pe.com.BC32.app.yankiuser.controller.YankiUserController
+2022-09-13 23:52:55,032 DEBUG pe.com.BC32.app.yankiuser.controller.YankiUserController [reactor-http-nio-2] Entering getall yankiusers pe.com.BC32.app.yankiuser.controller.YankiUserController
+2022-09-14 00:12:27,750 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-09-14 00:12:31,774 INFO org.springframework.boot.StartupInfoLogger [main] Started BootCoinUserMain in 6.251 seconds (JVM running for 6.767)
+2022-09-14 00:19:30,059 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-09-14 00:19:33,633 INFO org.springframework.boot.StartupInfoLogger [main] Started BootCoinUserMain in 5.775 seconds (JVM running for 6.237)
+2022-09-14 00:20:15,546 DEBUG pe.com.BC32.app.bootcoinuser.controller.BootCoinUserController [reactor-http-nio-2] Entering getall bootcoinusers pe.com.BC32.app.bootcoinuser.controller.BootCoinUserController
+2022-09-14 00:23:00,742 DEBUG pe.com.BC32.app.bootcoinuser.controller.BootCoinUserController [reactor-http-nio-2] Entering get bootcoinuser pe.com.BC32.app.bootcoinuser.controller.BootCoinUserController
+2022-09-14 00:24:24,123 DEBUG pe.com.BC32.app.bootcoinuser.controller.BootCoinUserController [reactor-http-nio-2] Entering add bootcoinuser pe.com.BC32.app.bootcoinuser.controller.BootCoinUserController
+2022-09-14 00:24:24,124 DEBUG pe.com.BC32.app.bootcoinuser.service.implement.BootCoinUserServiceImpl [reactor-http-nio-2] Entering save pe.com.BC32.app.bootcoinuser.service.implement.BootCoinUserServiceImpl
+2022-09-14 00:25:43,798 DEBUG pe.com.BC32.app.bootcoinuser.controller.BootCoinUserController [reactor-http-nio-2] Entering update bootcoinuser pe.com.BC32.app.bootcoinuser.controller.BootCoinUserController
+2022-09-14 00:25:43,799 DEBUG pe.com.BC32.app.bootcoinuser.service.implement.BootCoinUserServiceImpl [reactor-http-nio-2] Entering update pe.com.BC32.app.bootcoinuser.service.implement.BootCoinUserServiceImpl
+2022-09-14 00:26:38,585 DEBUG pe.com.BC32.app.bootcoinuser.controller.BootCoinUserController [reactor-http-nio-2] Entering add bootcoinuser pe.com.BC32.app.bootcoinuser.controller.BootCoinUserController
+2022-09-14 00:26:38,586 DEBUG pe.com.BC32.app.bootcoinuser.service.implement.BootCoinUserServiceImpl [reactor-http-nio-2] Entering save pe.com.BC32.app.bootcoinuser.service.implement.BootCoinUserServiceImpl
+2022-09-14 00:26:45,189 DEBUG pe.com.BC32.app.bootcoinuser.controller.BootCoinUserController [reactor-http-nio-2] Entering delete bootcoinuser pe.com.BC32.app.bootcoinuser.controller.BootCoinUserController
